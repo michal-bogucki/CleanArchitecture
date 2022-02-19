@@ -1,5 +1,7 @@
 package com.learnig.android.cleanarchitecture.features.episodes.domain.model
 
+import androidx.room.PrimaryKey
+
 data class Episode(
     val airDate: String,
     val characters: List<String>,

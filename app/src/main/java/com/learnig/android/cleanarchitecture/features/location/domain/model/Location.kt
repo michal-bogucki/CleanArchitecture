@@ -1,5 +1,7 @@
 package com.learnig.android.cleanarchitecture.features.location.domain.model
 
+import androidx.room.PrimaryKey
+
 data class Location(
     val dimension: String,
     val id: Int,
