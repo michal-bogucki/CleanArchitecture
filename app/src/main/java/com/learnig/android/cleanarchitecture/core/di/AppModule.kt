@@ -5,8 +5,11 @@ import android.net.ConnectivityManager
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
+
 import com.learnig.android.cleanarchitecture.core.network.NetworkStateProvider
 import com.learnig.android.cleanarchitecture.core.network.NetworkStateProviderImpl
+import org.koin.android.ext.koin.androidApplication
+
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
 
