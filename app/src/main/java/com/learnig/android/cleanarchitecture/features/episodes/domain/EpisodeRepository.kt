@@ -1,4 +1,4 @@
-package com.learnig.android.cleanarchitecture.features.episodes
+package com.learnig.android.cleanarchitecture.features.episodes.domain
 
 import com.learnig.android.cleanarchitecture.features.episodes.domain.model.Episode
 

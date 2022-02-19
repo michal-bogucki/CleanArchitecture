@@ -1,4 +1,4 @@
-package com.learnig.android.cleanarchitecture.features.data.remote.model
+package com.learnig.android.cleanarchitecture.core.api.model.location
 
 import com.google.gson.annotations.SerializedName
 import com.learnig.android.cleanarchitecture.features.location.domain.model.Location

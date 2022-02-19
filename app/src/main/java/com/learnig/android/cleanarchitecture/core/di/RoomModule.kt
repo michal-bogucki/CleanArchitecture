@@ -12,4 +12,6 @@ val roomModule = module {
             AppDatabase::class.java, "database"
         ).build()
     }
+
+    single { get<AppDatabase>().episodeDao() }
 }

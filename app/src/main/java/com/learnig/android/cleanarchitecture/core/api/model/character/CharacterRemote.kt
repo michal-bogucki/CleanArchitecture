@@ -1,4 +1,4 @@
-package com.learnig.android.cleanarchitecture.features.data.remote.model
+package com.learnig.android.cleanarchitecture.core.api.model.character
 
 import com.google.gson.annotations.SerializedName
 

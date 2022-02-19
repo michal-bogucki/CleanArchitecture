@@ -1,6 +1,5 @@
 package com.learnig.android.cleanarchitecture.features.characters.domain
 
-import com.learnig.android.cleanarchitecture.features.characters.CharacterRepository
 import io.mockk.coVerify
 import io.mockk.mockk
 import kotlinx.coroutines.GlobalScope

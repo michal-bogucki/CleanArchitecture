@@ -1,4 +1,4 @@
-package com.learnig.android.cleanarchitecture.features.characters
+package com.learnig.android.cleanarchitecture.features.characters.domain
 
 import com.learnig.android.cleanarchitecture.features.characters.domain.model.Character
 

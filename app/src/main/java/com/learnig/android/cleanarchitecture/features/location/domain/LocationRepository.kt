@@ -1,4 +1,4 @@
-package com.learnig.android.cleanarchitecture.features.location
+package com.learnig.android.cleanarchitecture.features.location.domain
 
 import com.learnig.android.cleanarchitecture.features.location.domain.model.Location
 
