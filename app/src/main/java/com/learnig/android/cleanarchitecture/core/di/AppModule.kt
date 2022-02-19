@@ -13,10 +13,10 @@ val appModule = module {
     }
 
     factory {
-        GridLayoutManager(androidApplication(), 2)
+        GridLayoutManager(androidContext(), 2)
     }
 
     factory {
-        DividerItemDecoration(androidApplication(), LinearLayoutManager.VERTICAL)
+        DividerItemDecoration(androidContext(), LinearLayoutManager.VERTICAL)
     }
 }
