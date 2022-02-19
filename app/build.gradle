@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId "com.learnig.android.cleanarchitecture"
-        minSdk 21
+        minSdk 23
         targetSdk 31
         versionCode 1
         versionName "1.0"
@@ -63,6 +63,7 @@ dependencies {
 
     //room dependencies
     implementation roomDependence
+    implementation roomKtx
     kapt kaptRoomDependence
 
     //test dependencies

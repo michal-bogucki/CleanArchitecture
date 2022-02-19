@@ -1,7 +1,7 @@
 package com.learnig.android.cleanarchitecture.core.di
 
 import com.learnig.android.cleanarchitecture.BuildConfig
-import com.learnig.android.cleanarchitecture.features.data.RickAndMortyApi
+import com.learnig.android.cleanarchitecture.core.api.RickAndMortyApi
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
